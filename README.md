@@ -4,3 +4,5 @@ How to use it:
 - Create an Excel workbook with two spreadsheets named "In" and "Out". 
 - Put the RGB values in column A, B, C respectively. 
 - Run the macro.
+
+Pretty handy for creating pixel art and such.
