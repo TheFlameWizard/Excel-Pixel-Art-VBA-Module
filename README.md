@@ -6,3 +6,7 @@ How to use it:
 - Run the macro.
 
 Pretty handy for creating pixel art and such.
+
+Example:
+![](https://github.com/TheFlameWizard/Excel-Pixel-Art-VBA-Module/blob/main/Example/001.png?raw=true)
+![](https://github.com/TheFlameWizard/Excel-Pixel-Art-VBA-Module/blob/main/Example/003.png?raw=true)
